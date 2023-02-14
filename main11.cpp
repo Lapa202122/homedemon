@@ -5,7 +5,7 @@
      int mas [100];
      int n;
      
-     printf("number of elements\n");
+     printf("Number of elements\n");
      scanf("%i",&n);
      
      for(int i=0;i<n;i++)
